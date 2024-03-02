@@ -1,4 +1,5 @@
 <?php
+namespace tecnickcom\tcpdf;
 //============================================================+
 // File name   : tcpdf_static.php
 // Version     : 1.1.4

@@ -1,4 +1,5 @@
 <?php
+namespace tecnickcom\tcpdf;
 //============================================================+
 // File name   : tcpdf_colors.php
 // Version     : 1.0.004

@@ -1,4 +1,5 @@
 <?php
+namespace tecnickcom\tcpdf;
 //============================================================+
 // File name   : tcpdf_font_data.php
 // Version     : 1.0.001

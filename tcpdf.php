@@ -1,4 +1,5 @@
 <?php
+namespace tecnickcom\tcpdf;
 //============================================================+
 // File name   : tcpdf.php
 // Version     : 6.6.5
