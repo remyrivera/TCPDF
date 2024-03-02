@@ -1,5 +1,5 @@
 <?php
-namespace tecnickcom\tcpdf;
+namespace rivcar\tcpdf;
 //============================================================+
 // File name   : tcpdf_font_data.php
 // Version     : 1.0.001

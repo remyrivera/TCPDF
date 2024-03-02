@@ -1,5 +1,5 @@
 <?php
-namespace tecnickcom\tcpdf;
+namespace rivcar\tcpdf;
 //============================================================+
 // File name   : tcpdf.php
 // Version     : 6.6.5
