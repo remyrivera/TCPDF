@@ -1,21 +1,9 @@
 # TCPDF
 *PHP PDF Library*
 
-[![Donate via PayPal](https://img.shields.io/badge/donate-paypal-87ceeb.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&currency_code=GBP&business=paypal@tecnick.com&item_name=donation%20for%20TCPDF%20project)
-*Please consider supporting this project by making a donation via [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&currency_code=GBP&business=paypal@tecnick.com&item_name=donation%20for%20TCPDF%20project)*
-
 * **category**    Library
-* **author**      Nicola Asuni <info@tecnick.com>
-* **copyright**   2002-2023 Nicola Asuni - Tecnick.com LTD
 * **license**     http://www.gnu.org/copyleft/lesser.html GNU-LGPL v3 (see LICENSE.TXT)
 * **link**        http://www.tcpdf.org
-* **source**      https://github.com/tecnickcom/TCPDF
-
-
-## NOTE
-A new version of this library is under development at https://github.com/tecnickcom/tc-lib-pdf and as a consequence this library is in support only mode.
-
-
 
 ## Description
 
@@ -71,13 +59,3 @@ Link : http://dejavu-fonts.org
 
 The binary files (.z) that begins with the prefix "ae" have been extracted from the Arabeyes.org collection (GNU-GPLv2).
 Link : http://projects.arabeyes.org/
-
-### ICC profile:
-
-TCPDF includes the sRGB.icc profile from the icc-profiles-free Debian package:
-https://packages.debian.org/source/stable/icc-profiles-free
-
-
-## Developer(s) Contact
-
-* Nicola Asuni <info@tecnick.com>
