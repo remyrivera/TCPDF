@@ -1,4 +1,5 @@
 <?php
+namespace rivcar\tcpdf;
 //============================================================+
 // File name   : tcpdf_images.php
 // Version     : 1.0.005
